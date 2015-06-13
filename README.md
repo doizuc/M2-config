@@ -9,6 +9,9 @@ and configuration profiles for the programs I use. They are:
 * pronterface - control printer, send gcode to printer, view gcode
 * tatlin - view gcode
 
+Default temperature for V3B Hot-end are:
+* starting extrusion at 215 C with bed at 60-70 C for PLA 
+* starting extrusion at 240 C with bed at 100-110 C for ABS
 
 Files:
 
